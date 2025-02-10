@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-💐 This is Lizzy(Haoyue), an economics predoc researcher who has a dream to be a programmer > <
-I will shared some coursework code (Python, R and Stata) here
-and I am looking forward to learn a lot of stuff here!
+💐 This is Lizzy(Haoyue), an economics predoc researcher > <
+I will shared some coursework code (Python, R and Stata) here.
 
 
 <!--
